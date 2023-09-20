@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"shadcn-ui": "^0.4.0",
+		"tailwind": "^4.0.0"
+	}
+}
